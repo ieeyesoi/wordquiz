@@ -229,7 +229,4 @@ int main ()
 
 	return EXIT_SUCCESS ;
 
-	printf("English for Software Developer");
-	printf("2023070002_leeyesol, 2022078069_leekwanhak");
-	
 }
